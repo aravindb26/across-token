@@ -16,7 +16,7 @@
   "author": "Across Team",
   "license": "AGPL-3.0",
   "dependencies": {
-    "@openzeppelin/contracts": "^4.7.3",
+    "@openzeppelin/contracts": "^4.9.6",
     "hardhat": "^2.9.3"
   },
   "scripts": {
